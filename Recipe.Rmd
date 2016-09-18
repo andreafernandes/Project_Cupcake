@@ -1,0 +1,44 @@
+---
+title: "PhD question: What makes a good cupcake?"
+author: "andreafernandes"
+date: "18 September 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Recipe for the best cupcake in the world
+
+
+110g/4oz butter or margarine, softened at room temperature
+
+110g/4oz caster sugar
+
+
+
+2 free-range eggs, lightly beaten
+
+1 tsp vanilla extract
+110g/4oz self-raising flour
+1-2 tbsp milk
+For the buttercream icing
+140g/5oz butter, softened
+280g/10oz icing sugar
+1-2 tbsp milk
+a few drops food colouring
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
